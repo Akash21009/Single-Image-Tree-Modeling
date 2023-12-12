@@ -1,4 +1,4 @@
-# Single Image Tree Modeling - Team 23
+# Single Image Tree Modeling
 ![ezgif com-video-to-gif-converted](https://github.com/Akash21009/Computer_Graphics_-CSE-333-IIID-/assets/108830659/08b2b403-e0b4-49aa-a42c-9d3205efe5af)
 
 ![ezgif com-video-to-gif-converted (1)](https://github.com/Akash21009/Computer_Graphics_-CSE-333-IIID-/assets/108830659/6ee8d309-ec28-4f4f-ae86-f07351ce17a6)
