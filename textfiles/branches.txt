@@ -1,0 +1,12 @@
+Stroke 1:
+Point 1: 1278 87 -500
+Point 2: 1299 366 -500
+
+Stroke 2:
+Point 1: 1286 209 -500
+Point 2: 1094 501 -500
+
+Stroke 3:
+Point 1: 1176 385 -500
+Point 2: 1166 522 -500
+

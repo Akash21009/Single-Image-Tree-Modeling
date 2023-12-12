@@ -1,0 +1,3 @@
+/mnt/e/OpenGl/labs/lab7/singleimagetreemodelling/CMakeFiles/project.dir
+/mnt/e/OpenGl/labs/lab7/singleimagetreemodelling/CMakeFiles/edit_cache.dir
+/mnt/e/OpenGl/labs/lab7/singleimagetreemodelling/CMakeFiles/rebuild_cache.dir
